@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "D": {
+      "item": "minecraft:diamond_chestplate"
+    },
+    "E": {
+      "item": "minecraft:elytra"
+    },
+    "S": {
+      "item": "minecraft:string"
+    },
+    "Y": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "pattern": [
+    "SDS",
+    "SES",
+    "SYS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "simpleflight:diamond_chestplate"
+  }
+}
